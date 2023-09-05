@@ -1,0 +1,5 @@
+<paths>
+    <external-cache-path
+        name="fake_images_path"
+        path="real_images_path/" />
+</paths>
